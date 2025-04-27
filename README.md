@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋, eu sou a Vitória</h1>
-<h3 align="center">Estudante de Engenharia de Dados apaixonada por ciência de dados</h3>
+<h3 align="center">Estudante de Engenharia de Dados apaixonada por ciência de dados 💻</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+- **Python** 🐍
+- **Machine Learning** 🤖
+- **Data Science** 📊
 
 - 📫 Caso queira entrar em contato por e-mail **vitoriadevsampaio@gmail.com**
 
