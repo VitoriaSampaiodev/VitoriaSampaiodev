@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou a Vitória</h1>
-<h3 align="center">Estudante de Engenharia de Dados, imersa no universo da Ciência de Dados e Inteligência Artificial, aplicando análise e algoritmos para resolver problemas desafiadores e gerar soluções práticas.💻</h3>
+<h3 align="center">Aqui compartilho conteúdos e projetos relacionados aos meus estudos em programação, banco de dados e análise de dados💻</h3>
 
 - **Python** 🐍
 - **Machine Learning** 🤖
