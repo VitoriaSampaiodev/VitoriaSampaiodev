@@ -1,4 +1,4 @@
-//<h1 align="center">Olá 👋, eu sou a Vitória</h1>
+<h1 align="center">Olá 👋, eu sou a Vitória. Aluna de pós Graduação de Engenharia de Dados.</h1>
 <h3 align="center">Aqui compartilho conteúdos e projetos relacionados aos meus estudos em programação, banco de dados e análise de dados💻</h3>
 
 - **Python, Java e C** 🐍
