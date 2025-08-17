@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋</h1>
-<h3 align="center">Aluna de pós Graduação de Engenharia de Dados, e aqui compartilho conteúdos e projetos relacionados aos meus estudos em programação, banco de dados e análise de dados💻</h3>
+<h3 align="center">Aluna de pós Graduação de Engenharia de Dados, e aqui compartilho conteúdos e projetos relacionados aos meus estudos em: programação, banco de dados e análise de dados💻</h3>
 
 - **Python, Java e C** 🐍
 - **Machine Learning** 🤖
