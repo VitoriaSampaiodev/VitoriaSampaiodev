@@ -1,9 +1,10 @@
 <h1 align="center">Olá 👋, eu sou a Vitória</h1>
 <h3 align="center">Aqui compartilho conteúdos e projetos relacionados aos meus estudos em programação, banco de dados e análise de dados💻</h3>
 
-- **Python** 🐍
+- **Python, Java e C** 🐍
 - **Machine Learning** 🤖
-- **Data Science** 📊
+- **SQL e Banco de Dados** 🗄️
+- **Estatística, Probabilidade e Matemática aplicada** 📊
 
 - 📫 Caso queira entrar em contato por e-mail **vitoriadevsampaio@gmail.com**
 
